@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModels\Identity\" />
+    <Folder Include="ViewModels\Groups\" />
+    <Folder Include="ViewModels\Chats\" />
+    <Folder Include="ViewModels\Notifications\" />
+    <Folder Include="ViewModels\Notes\" />
+  </ItemGroup>
+
+</Project>
