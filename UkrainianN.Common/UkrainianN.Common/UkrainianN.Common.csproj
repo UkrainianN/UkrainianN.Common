@@ -8,7 +8,6 @@
     <Folder Include="ViewModels\Identity\" />
     <Folder Include="ViewModels\Groups\" />
     <Folder Include="ViewModels\Chats\" />
-    <Folder Include="ViewModels\Notifications\" />
     <Folder Include="ViewModels\Notes\" />
   </ItemGroup>
 
